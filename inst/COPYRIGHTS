@@ -1,0 +1,31 @@
+TinyDNG headers
+
+Files:
+  inst/include/tinydng/tiny_dng_loader.h
+  inst/include/tinydng/tiny_dng_writer.h
+
+Copyright:
+  Copyright (c) 2016-Present, Syoyo Fujita and contributors.
+
+License:
+  MIT
+
+R package integration and local modifications
+
+Files:
+  DESCRIPTION
+  NAMESPACE
+  README.md
+  NEWS.md
+  man/tinydng-package.Rd
+
+Copyright:
+  Copyright (c) 2026 Tyler Morgan-Wall
+
+License:
+  MIT
+
+Notes:
+  The TinyDNG headers are derived from TinyDNG and retain their original
+  MIT license notices. Local changes inherited from rayimage are distributed
+  under the same MIT license.
